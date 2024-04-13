@@ -1,0 +1,6 @@
+task:
+    group_name: "shopping_easy_vision"
+    base_url: "SHOPPING"
+    intent:
+    eval_type: 
+    value:
