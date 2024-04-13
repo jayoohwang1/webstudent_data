@@ -1,0 +1,7 @@
+task:
+    group_name: mygroup
+    base_url: CLASSIFIEDS
+    intent:
+"Find me the cheapest Macbook pro with Apple chip and at least 16GB of memory and a Retina display."
+    eval_type: "string_match"
+    value: "600"
