@@ -3,5 +3,5 @@ task:
     base_url: "CLASSIFIEDS/index.php?page=search&sCategory=10"
     intent:
 "What is the price of the most expensive red car on this page?"
-    eval_type: "url_match"
-    value: "CLASSIFIEDS/index.php?page=item&id=66091"
+    eval_type: "string_match"
+    value: "54000 |OR| 54,000"
