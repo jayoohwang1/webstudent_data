@@ -4,4 +4,4 @@ task:
     intent:
 "What is the price of the most expensive red car on this page?"
     eval_type: "string_match"
-    value: "54000 |OR| 54,000"
+    value: "54000 |OR| 54,000 |OR| fifty-four thousand"
