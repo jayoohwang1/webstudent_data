@@ -1,0 +1,6 @@
+task:
+    group_name: "shopping_easy_nlp"
+    base_url: SHOPPING
+    intent: "Click the last item on this page."
+    eval_type: "url_match"
+    value: "SHOPPING/crunchy-rice-rollers-gluten-free-vegan-3-5-oz-individual-packs-4-packs-of-8-rollers.html"
