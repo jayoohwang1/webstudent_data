@@ -1,0 +1,2425 @@
+{
+    "url": "http://35.203.86.70:9980/",
+    "navbar_section": {
+        "desc": "The screenshot shows a partial view of a user interface, likely from a web page or an application. On the left side, there is a blue rectangle with the text 'Osclass' inside it. To the right of 'Osclass', there are two sections. The top section has the text 'My account' and 'Logout' next to each other, and below them is a black rectangle with the text 'Publish Ad'. The background is white, and the text is primarily in black with some blue.",
+        "summary": "This section contains user account management options, including login and logout functionality, as well as an option to publish an ad.",
+        "screenshot_file": null,
+        "list_type": null,
+        "explored_end": false,
+        "has_images": false,
+        "bbox": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 1000,
+            "y2": 34,
+            "x1_abs_px": 0,
+            "y1_abs_px": 0,
+            "x2_abs_px": 1280,
+            "y2_abs_px": 69
+        }
+    },
+    "navbar_y": 34,
+    "footer_section": {
+        "desc": "The layout consists of a single, centered heading labeled 'Contact' at the top of the page. Below the heading, there is a subheading that reads 'Powered by best classifieds scripts osslass'. The rest of the page is blank, with no additional content or any visual elements.",
+        "summary": "This section contains a single, centered heading labeled 'Contact' at the top of the page, followed by a subheading that provides information about the underlying technology used to power the classifieds scripts.",
+        "screenshot_file": null,
+        "list_type": null,
+        "explored_end": false,
+        "has_images": false,
+        "bbox": {
+            "x1": 117,
+            "y1": 932,
+            "x2": 882,
+            "y2": 1000,
+            "x1_abs_px": 149,
+            "y1_abs_px": 2121,
+            "x2_abs_px": 1128,
+            "y2_abs_px": 2261
+        }
+    },
+    "footer_y": 932,
+    "pages": {
+        "http://35.203.86.70:9980/": {
+            "url": "http://35.203.86.70:9980/",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/0",
+            "name": "Homepage",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a gallery of 'Latest Listings' from an online marketplace. There are images and brief descriptions of various items for sale, including a JBL Powered PA Speaker, an Xbox Series X/with extras, a Canon Ef 100-400mm lens, Engagement Ring, a 1997 Ford Airstream, a Complete Guitar Rig, a Tennis bracelet, a 2021 Martin GPC 16e Rose, a Century Furniture English Sofa, and a Highland House Furniture piece. Each listing includes a price and some have additional details like mileage or size.",
+                    "summary": "This section contains a gallery of various items for sale, including electronics, jewelry, furniture, and other products, with brief descriptions and prices.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/0/[[139,374,1139,1277]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 109,
+                        "y1": 183,
+                        "x2": 890,
+                        "y2": 624,
+                        "x1_abs_px": 139,
+                        "y1_abs_px": 374,
+                        "x2_abs_px": 1139,
+                        "y2_abs_px": 1277
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a simple, clean design. At the top, there is a navigation bar with a logo on the left and a search icon on the right. Below the navigation bar, there is a large text box with the question 'What are you looking for today?' centered on the page. Underneath the text box, there are two dropdown menus side by side. The left dropdown is labeled 'Keyword' with 'e.g., a blue used car' entered as a sample search term. The right dropdown is labeled 'Category' with 'Select a category' as placeholder text. Below the dropdowns, there is a blue 'Search' button.",
+                    "summary": "This section contains a search functionality with a text box, two dropdown menus (Keyword and Category), and a blue 'Search' button, allowing users to input their search queries and refine their results.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/0/[[0,69,1280,374]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 183,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 374
+                    }
+                },
+                {
+                    "desc": "The content is presented in a list format with the heading 'All locations' at the top.",
+                    "summary": null,
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/0/[[801,1277,1280,1390]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 626,
+                        "y1": 624,
+                        "x2": 1000,
+                        "y2": 679,
+                        "x1_abs_px": 801,
+                        "y1_abs_px": 1277,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 1390
+                    }
+                },
+                {
+                    "desc": "The image displays a grid of icons representing different categories. Each category is represented by an icon and a label beneath it. The categories include 'Antiques', 'Appliances', 'Arts + crafts', 'Auto parts', 'Beauty + health', 'Bikes', 'Boats', 'Cars + trucks', 'Cell phones', 'Collectibles', 'Computers', 'Electronics', 'Farm + garden', 'Furniture', 'Household', 'Jewelry', 'Motorcycles', 'Music instruments', 'Photo + video', 'Rvs + campers', and 'Video gaming'.",
+                    "summary": "This section contains a categorized list of icons representing various product categories, including but not limited to Antiques, Beauty + Health, Electronics, and more.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/0/[[0,1277,801,2121]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 624,
+                        "x2": 626,
+                        "y2": 1036,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 1277,
+                        "x2_abs_px": 801,
+                        "y2_abs_px": 2121
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a list of U.S. states with corresponding numbers in parentheses. The states listed are Virginia, Pennsylvania, Maryland, Ohio, Washington, D.C., West Virginia, and Delaware. The numbers in parentheses are likely population figures for each state. The list is displayed in a simple, unstyled text format with no additional elements like headings or borders.",
+                    "summary": "This section contains a list of links for various U.S. states, allowing the user to sort by location.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/0/[[801,1390,1280,2121]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 626,
+                        "y1": 679,
+                        "x2": 1000,
+                        "y2": 1036,
+                        "x1_abs_px": 801,
+                        "y1_abs_px": 1390,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 2121
+                    }
+                }
+            ],
+            "list_sections": []
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=2": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=2",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/1",
+            "name": "Antiques",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a classified ad listing for 'Antiques'. The page layout includes a header with the title 'Antiques' and a subtitle indicating '1 - 12 of 5447 listings'. Below the header, there are search filters labeled 'Your search', 'City', 'Show only', 'Price', and 'Min.'. The 'Apply' button is visible below the filters. The main content area displays a listing for a 'Vintage Chair' priced at '$80.00' with an image of the chair. The listing includes the seller's information, 'Antiques / Arlington (Virginia)', and a description that mentions the chair's condition and history.",
+                    "summary": "This section contains a classified ad listing for antiques, allowing users to filter search results by city, price, and other criteria, and view detailed listings with images, descriptions, and seller information.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/1/[[0,69,1280,514]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 251,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 514
+                    }
+                },
+                {
+                    "desc": "The layout consists of a button labeled 'Subscribe to this search' at the top, followed by a 'Subscribe now!' button. Below that, there is an option to 'Refine category' with two categories listed: 'All categories' and 'Antiques'.",
+                    "summary": "This section contains options to refine search results and subscribe to specific categories, including a 'Subscribe now!' button and a 'Refine category' dropdown menu with options for 'All categories' and 'Antiques'.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/1/[[0,514,395,1474]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 251,
+                        "x2": 309,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 514,
+                        "x2_abs_px": 395,
+                        "y2_abs_px": 1474
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a series of online classified ads, each with a title, description, price, and some with images. The items for sale include a Harley Ignition Module Sensor Pick Up, a Beautiful solid wood Antique armoire, a Grim Reaper Scythe, a Vintage Luggage, a Bottle/Cruet, and a Vintage metal lamp/sconces. The prices range from $5.00 to $110.00. The descriptions provide details about the condition, age, and use of the items.",
+                    "summary": "This section contains a collection of online classified ads for various used items, including furniture, collectibles, and miscellaneous goods, with details about their condition, age, and use.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/1/[[395,514,1121,1474]].png",
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 309,
+                        "y1": 251,
+                        "x2": 876,
+                        "y2": 882,
+                        "x1_abs_px": 395,
+                        "y1_abs_px": 514,
+                        "x2_abs_px": 1121,
+                        "y2_abs_px": 2449
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=user&action=items": {
+            "url": "http://35.203.86.70:9980/index.php?page=user&action=items",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/My account",
+            "name": "My account",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'My listings' at the top. Below the title, there is a listing for a 'Compact Canister Vacuum Cleaner - Lightweight and Powerful' priced at $50.00. The listing includes the category 'Electronics' and a location 'Pittsburgh (Pennsylvania) / 2023/11/15'. A description under the product image suggests using the vacuum cleaner to keep home clean and mentions its lightweight design and 18-foot power cord. There are options to edit or delete the listing.",
+                    "summary": "This section contains a single product listing for a compact canister vacuum cleaner, including its price, category, and location, as well as a brief description and editing/deletion options.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/My account/[[395,69,1280,454]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 309,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 222,
+                        "x1_abs_px": 395,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 454
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a product listing for the 'iPhone X - 256GB, Space Gray, Excellent Condition' on a cell phone retail website. The price is listed as $400.00 with an additional note of 'Cell phones / Pittsburgh (Pennsylvania) / 2023/11/15'. Below the price, there is a description mentioning that the device has a generous 256GB of storage and is meticulously maintained and comes with the latest iOS installed, ready for all apps and media. The OLED screen is highlighted as delivering vibrant colors and true blacks. There are two buttons below the description: 'Edit item' and 'Delete'.",
+                    "summary": "This section contains a product listing for an iPhone X with details on its storage, maintenance, and features, as well as options to edit or delete the product listing.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/My account/[[395,454,1280,688]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 309,
+                        "y1": 222,
+                        "x2": 1000,
+                        "y2": 336,
+                        "x1_abs_px": 395,
+                        "y1_abs_px": 454,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 688
+                    }
+                },
+                {
+                    "desc": "The layout is a vertical list of options under the 'Classifieds > Account > Listings' menu. The options are 'Public Profile', 'Listings', 'Alerts', 'Account', 'Change email', 'Change username', 'Change password', and 'Delete account'.",
+                    "summary": "This section contains a list of options for managing user accounts, including profile settings, listing management, and account configuration.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/My account/[[0,69,395,688]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 309,
+                        "y2": 336,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 395,
+                        "y2_abs_px": 688
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of rental listings for unique and modern spaces in Pittsburgh, Pennsylvania. Each listing includes a photo, a brief description, the location, the date it was posted, and options to edit or delete the listing. The listings feature a variety of spaces such as a factory warranty office, a lightweight frame workshop, a French door refrigerator showroom, a ceramic vase storage space, and a smartphone storage area.",
+                    "summary": "This section contains a list of rental listings for unique and modern spaces in Pittsburgh, Pennsylvania, featuring a variety of spaces with photos, descriptions, locations, and posting dates.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/My account/[[395,688,1121,1648]].png",
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": true,
+                    "bbox": {
+                        "x1": 309,
+                        "y1": 336,
+                        "x2": 876,
+                        "y2": 862,
+                        "x1_abs_px": 395,
+                        "y1_abs_px": 688,
+                        "x2_abs_px": 1121,
+                        "y2_abs_px": 2966
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=item&action=item_add": {
+            "url": "http://35.203.86.70:9980/index.php?page=item&action=item_add",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Publish Ad",
+            "name": "Publish Ad",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a web form for listing a property for sale. The form includes fields for 'Category' with a dropdown menu, 'Title', 'Description', 'Price' with a currency selector, and 'Listing Location' with dropdown menus for 'Region', 'City', and 'City Area', and an additional field for 'Address'. There is also a button to 'Click or Drop for upload images'.",
+                    "summary": "This section contains a web form for listing a property for sale, with fields for categorization, title, description, pricing, and location information, as well as an image upload feature.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Publish Ad/[[192,278,1088,1238]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 150,
+                        "y1": 136,
+                        "x2": 850,
+                        "y2": 932,
+                        "x1_abs_px": 192,
+                        "y1_abs_px": 278,
+                        "x2_abs_px": 1088,
+                        "y2_abs_px": 1238
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web form with fields for 'City And State', 'Address', 'Seller's information', and 'Other contact'. Under 'Seller's information', there are fields for 'Phone' with a checkbox option to 'Show phone on the listing page'. Below the form, there is a 'Publish' button. At the bottom, there is a disclaimer about classified scripts being scanned.",
+                    "summary": null,
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Publish Ad/[[192,1158,1088,1908]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 150,
+                        "y1": 136,
+                        "x2": 850,
+                        "y2": 932,
+                        "x1_abs_px": 192,
+                        "y1_abs_px": 1158,
+                        "x2_abs_px": 1088,
+                        "y2_abs_px": 1908
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a minimalistic design, predominantly in black and white colors. The top of the page has a navigation bar with the title 'Classifieds' and a link to 'Publish a listing'. Below the navigation bar, there is a large heading that reads 'Publish a listing' followed by a subheading 'General Information'. The rest of the page is not visible in the screenshot.",
+                    "summary": "This section contains a navigation bar with a 'Publish a listing' link and a heading with subheading 'General Information', likely providing a starting point for users to create a classifieds listing.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Publish Ad/[[0,69,1280,278]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 136,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 278
+                    }
+                }
+            ],
+            "list_sections": []
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=3": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=3",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances",
+            "name": "Appliances",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Appliances' at the top. Below the title, there is a search bar with a magnifying glass icon to the left and a dropdown menu to the right. The main content area of the page lists '1 - 12 of 5797 listings'. At the bottom, there is a section labeled 'Listings' with a downward pointing arrow, suggesting more content is available if clicked. On the right side of the page, there is a button with three horizontal lines indicating a menu, and below it is a button labeled 'Sort by: Newly Listed'.",
+                    "summary": "This section contains a search bar, a list of appliance-related products, and navigation controls to access more listings and sort products by various criteria.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[399,69,1280,299]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a form titled 'Classifieds > Appliances'. The form contains fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', with 'City' and 'Price' currently filled in. There is a blue 'Apply' button below the form fields. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with 'All categories' listed underneath.",
+                    "summary": "This section contains a search form for classifieds, allowing users to filter appliances by city, price, and other criteria, with options to refine the search and subscribe to it.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[0,69,399,1029]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of classified ads for various appliances, specifically a Mimi fridge, a cuisinart coffee grinder, a cuisinart ice cream maker, a cuisinart griddler, and a GE microwave. Each ad includes a title, a price, a location, a date, and a brief description. The items are listed in a vertical format with images and brief details provided for each one.",
+                    "summary": "This section contains a list of classified ads for various appliances, featuring titles, prices, locations, dates, and brief descriptions, with each ad including an image and details.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[399,299,1123,1259]].png",
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": true,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2287
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=4": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=4",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Arts + crafts",
+            "name": "Arts + crafts",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a section of a webpage with a title 'Arts + crafts'. Below the title, there is an indication of '1 - 12 of 2516 listings'. At the bottom of the screenshot, there is a 'Listings' label. On the right side, there is a button with three horizontal lines, likely a menu button, and next to it is a button with a sort icon and the text 'Sort by: Newly listed'.",
+                    "summary": "This section contains a list of arts and crafts products, with pagination indicating a large number of listings, and options to sort and navigate the content.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a form for searching classified ads. The form includes fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', with 'City' and 'Price' currently filled in. There is a blue 'Apply' button below the form. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with a sub-link for 'All categories'. The page indicates that there are 'Arts + crafts' classifieds available.",
+                    "summary": "This section contains a search form for classified ads, allowing users to filter results by city, price, and other criteria, with options to refine and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of artworks for sale, each with a thumbnail image, title, artist name, date, and price. The listings include a variety of art mediums such as heavy duty staplers, paintings on wooden plates, serigraphs, and posters. The prices range from $1.00 to $125.00. Some listings have additional details like shipping information or special offers.",
+                    "summary": "This section contains a list of artworks for sale, featuring a variety of art mediums with details such as title, artist name, date, and price.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2487
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=5": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=5",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Auto parts",
+            "name": "Auto parts",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Auto parts' at the top. Below the title, there is a list of items with one visible item labeled '1 - 12 of 6304 listings'. To the right of the item count, there is a dropdown menu or button labeled 'Sort by: Newly listed'. The rest of the page is not visible in the screenshot.",
+                    "summary": "This section contains a list of auto parts with filtering and sorting options, including a dropdown menu labeled 'Sort by: Newly listed', and a count of the total listings.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', followed by an 'Apply' button. Below the form, there are options to 'Subscribe to this search' and a 'Refine category' section with a dropdown menu for 'All categories' and a link to 'Auto parts'.",
+                    "summary": "This section contains a search form with various fields to filter results, an 'Apply' button, and options to refine categories and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of vehicle parts for sale, each with a description, price, and seller information. The parts include trailer rims, a 4-runner front bumper, a blade scraper, subaru legacy wheels, and traffic cones. Each listing has a date of posting and some have additional details like location and contact information.",
+                    "summary": "This section contains a list of vehicle parts for sale, each with a description, price, and seller information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2527
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=6": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=6",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Beauty + health",
+            "name": "Beauty + health",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Beauty + health' at the top. Below the title, there is a subtitle or section heading that is partially visible, followed by a list of '1 - 12 of 1974 listings'. At the bottom of the screenshot, there is a button or link that says 'Sort by: Newly listed'. The page appears to be from a website that sells or lists items related to beauty and health, specifically listings, as indicated by the 'Listings' label at the bottom.",
+                    "summary": "This section contains a list of beauty and health-related listings, with options to sort and navigate through the results.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a form for searching classifieds. The form includes fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', with 'City' and 'Price' currently filled in. There is a blue 'Apply' button below the form. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with 'All categories' listed underneath.",
+                    "summary": "This section contains a search form for classifieds, allowing users to filter results by city, price, and other criteria, with options to refine and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of fishing gear items for sale, each with a title, price, and seller information. The items include a 'Journey Motor chair', 'ALL IN ONE Capsule Filling Machine Size 000 / 3 Makes 100 Caps Filler', 'C. O. Bigelow Hair and Body Wash', 'Lancme STARLIGHT Palette - Brand New', and 'Lancome Eye Shadow and Blush Palette - Glow Brand New'. Each listing has additional details such as the location of the seller, the date of the listing, and a brief description of the item.",
+                    "summary": "This section contains a list of fishing gear items for sale, each with a title, price, and seller information, along with additional details such as location, date, and brief description.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2527
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=7": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=7",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Bikes",
+            "name": "Bikes",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The content is displayed in a list format with a header that reads 'Bikes'. Below the header, there is a sub-header that indicates '1 - 12 of 2537 listings'. At the bottom of the screenshot, there is a section labeled 'Listings'. On the right side of the page, there is a button with three horizontal lines and text that says 'Sort by: Newly listed'.",
+                    "summary": "This section contains a list of bike listings, with filtering and sorting options, including a 'Sort by: Newly listed' button.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', followed by an 'Apply' button. Below the form, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with 'All categories' listed underneath.",
+                    "summary": "This section contains a search form with various fields to filter results, an 'Apply' button, and options to refine categories and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of advertisements for bicycles for sale in a classifieds format. Each listing includes a photo of the bike, a description, the location, the date posted, and the price. The bikes listed are a Dahon folding bike, a KHS Flite 720 Womens, a 54cm Wilier Triestina Carbon Road Bike, a 26\" aluminum Gary Fisher, and a Specialized HardRock.",
+                    "summary": "This section contains a list of advertisements for bicycles for sale, each including a photo, description, location, date posted, and price.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2607
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=8": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=8",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Boats",
+            "name": "Boats",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Boats' at the top. Below the title, there is a number '1 - 12 of 770 listings' indicating the number of available listings. There is a button labeled 'Listings' suggesting that this is a section where users can view all available boats. On the right side of the page, there is a button with three horizontal lines, which typically represents a menu, and below it is a button labeled 'Sort by: Newly Listed' indicating the sorting criteria for the listings.",
+                    "summary": "This section contains a list of boat listings, with options to view all available boats and sort them by criteria such as newly listed.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a form titled 'Classifieds > Boats'. The form contains fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', with 'City' and 'Price' having dropdown menus and 'Show only' and 'Max.' having checkboxes. There is a blue 'Apply' button at the bottom of the form. Below the form, there is a section for 'Already subscribed to this search' with a link to 'Refine category' and a list of categories such as 'All categories' and 'Boats'.",
+                    "summary": "This section contains a search form for classifieds boats, allowing users to filter results by city, price, and other criteria, with an 'Apply' button to initiate the search and a section for refining categories.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a series of listings for boats for sale, each with a price, location, and a brief description. The listings include a FIBRA/FISHING GEAR boat, a wellcraft V20, a Yamaha FX140 Jet Ski, a 1986 Nova XL 23ft, and an Indestructible Triumph 22' center console with a Honda Motor. Each listing has additional details such as the year, model, and specific features.",
+                    "summary": "This section contains a list of boat listings, each with a price, location, and brief description, providing information on various boat models and their features.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2567
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=10": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=10",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Cars + trucks",
+            "name": "Cars + trucks",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Cars + trucks' at the top. Below the title, there is a subtitle '1 - 12 of 7606 listings'. At the bottom of the screenshot, there is a section labeled 'Listings'. On the right side of the page, there is a button with three horizontal lines indicating a menu, and below it is a button labeled 'Sort by: Newly listed'.",
+                    "summary": "This section contains a list of car and truck listings, with filtering and sorting options available, including a 'Sort by: Newly listed' button.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.'. Below the form, there is a button labeled 'Apply'. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with a dropdown menu for 'All categories' and a sub-category for 'Cars + trucks'.",
+                    "summary": "This section contains a search form with various fields to filter results, a 'Apply' button, and options to refine and subscribe to search results.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of car listings, each with a photo, price, model year, make and model, mileage, and a brief description. The cars listed are from various years and models, including Honda Accord, Ford F250, Freightliner Cascadia, Hyundai Elantra, and Porsche 911. Each listing also includes the location of the dealer and a link to view more cars.",
+                    "summary": "This section contains a list of car listings, each with essential details such as photo, price, model year, make and model, mileage, and brief description, allowing users to browse and compare various vehicles.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2587
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=11": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=11",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Cell phones",
+            "name": "Cell phones",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Cell phones' at the top. Below the title, there is a dropdown menu with a blue background and three horizontal lines indicating a menu option. To the right of this menu, there is a button with a blue background and a white icon resembling a book or list, labeled 'Sort by: Newly listed'. The main content area of the page is empty, suggesting that the listings for cell phones have not loaded or are not displayed in the screenshot. At the bottom of the page, there is a section labeled 'Listings' with no visible content.",
+                    "summary": "This section contains a title 'Cell phones', a dropdown menu with a blue background, a 'Sort by' button with a blue background and a white icon, and an empty main content area suggesting that cell phone listings have not loaded or are not displayed.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', and 'Price', with checkboxes for 'Show only listings with pictures' and 'Min.', 'Max.'. Below the form, there is a blue 'Apply' button. At the bottom, there are options to 'Subscribe to this search' and 'Refine category', with a link to 'Cell phones'.",
+                    "summary": "This section contains a search form with fields for searching listings, filtering options, and an 'Apply' button, allowing users to refine their search results.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of products for sale, specifically cell phones, with details such as the brand, model, price, and seller information. Each listing includes a photo of the item, a brief description, and the seller's username and rating. The phones are Apple iPhones and Samsung Galaxy models, and the listings are from different years, ranging from 2011 to 2023.",
+                    "summary": "This section contains a list of cell phones for sale, including Apple iPhones and Samsung Galaxy models, with details such as brand, model, price, and seller information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2487
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=12": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=12",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Collectibles",
+            "name": "Collectibles",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a web page with a title 'Collectibles' at the top. Below the title, there is a number '1 - 12 of 6789 listings' indicating the number of items available. There is a button labeled 'Listings' which suggests that this is a category or a section within a website where various listings of collectibles are displayed. On the right side, there is a button with three horizontal lines, which typically represents a menu or more options. Below this, there is a button with a cart icon and the text 'Sort by: Newly listed' indicating the sorting criteria for the listings.",
+                    "summary": "This section contains a category or section for collectibles, displaying a list of items with pagination and sorting options, including a 'Listings' button and a menu icon.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a form titled 'Classifieds > Collectibles'. The form contains fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', with 'City' and 'Price' currently filled in. There is a blue 'Apply' button below the form. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with a list of categories such as 'All categories' and 'Collectibles'.",
+                    "summary": "This section contains a search form for classifieds collectibles, allowing users to filter results by city, price, and other criteria, with options to refine the search and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of items for sale on an online marketplace, possibly eBay, with various collectible items such as rare Terex toy trucks, a Whimsical & Romantic handcuffs set, a signed Original Vintage Famed Gianni Toso Murano Glass Figurine, an Art Glass Fish with Baby Fish Inside, and a Hallmark Piano Playing Snowman. Each listing includes a price, a brief description, the item's condition, and the seller's username and rating.",
+                    "summary": "This section contains a list of collectible items for sale, including rare toys, art glass figurines, and other unique items, with each listing providing essential details such as price, description, condition, and seller information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2487
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=14": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=14",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Computers",
+            "name": "Computers",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Computers' at the top. Below the title, there is a breadcrumb navigation trail indicating 'Home > Computers'. The main content area of the page is empty, suggesting that it might be a landing page or a search result page without any listings currently displayed. On the right side, there is a button labeled 'Sort by: Newly Listed' indicating the sorting criteria for the listings.",
+                    "summary": "This section contains a title 'Computers', breadcrumb navigation trail, and a button to sort listings, suggesting it may be a landing page or search result page awaiting content.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', and 'Price'. Below the form, there is a button labeled 'Apply'. There are also links for 'Subscribe to this search' and 'Refine category', with a dropdown menu for 'All categories' and a list of computer categories.",
+                    "summary": "This section contains a search form with fields for searching, refining categories, and subscribing to search results, along with buttons to apply the search and refine categories.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of gaming PCs for sale on an online marketplace. Each listing includes a photo of the computer, a price, a brief description, and some have additional information such as the operating system installed, the condition of the PC, and the seller's username and feedback score.",
+                    "summary": "This section contains a list of gaming PCs for sale, each with a photo, price, and brief description, with some listings including additional details such as operating system, condition, and seller information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2547
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=15": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=15",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Electronics",
+            "name": "Electronics",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Electronics' at the top. Below the title, there is a subtitle '1 - 12 of 5396 listings'. There are two buttons visible; one is labeled 'Listings' and the other is a dropdown menu with the text 'Sort by: Newly listed' selected. The background of the page is white, and the text is predominantly black with blue accents.",
+                    "summary": "This section contains a list of electronics products, with filtering and sorting options, including a 'Listings' button and a dropdown menu to sort by newly listed products.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a classifieds section for electronics. At the top, there is a header with the word 'Classifieds > Electronics'. Below the header, there are fields for 'Your search', 'City', and 'Show only' with a checkbox option for 'listings with pictures'. There are also fields for 'Price' with a 'Min.' and 'Max.' option, followed by an 'Apply' button. At the bottom, there is a 'Subscribe to this search' button and a 'Refine category' section with a dropdown menu for 'All categories' and a link to 'Electronics'.",
+                    "summary": "This section contains a search interface for electronics classifieds, allowing users to filter results by search terms, location, and price range, with options to refine the search and subscribe to specific queries.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of items for sale on an online marketplace, possibly eBay, with various categories such as 'Bose Noise Cancelling Wireless Bluetooth Headphones', 'AT&T TURBO HOTSPOT 2', 'Disc Clone', 'Vintage Realistic Stereo', and '[NEW] Apple Magic Keyboard for iPad Pro 12.9inch'. Each listing includes a price, a brief description, the seller's username, and the number of items sold by that seller. The page layout is simple, with each listing having its own space, and the text is primarily in black with some blue highlighting.",
+                    "summary": "This section contains a list of items for sale, each with a price, brief description, and seller information, organized in a simple layout with black and blue text.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2427
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=16": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=16",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Farm + garden",
+            "name": "Farm + garden",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Farm + garden' at the top. Below the title, there is a subtitle '1 - 12 of 6602 listings'. There are two buttons, one with three horizontal lines indicating a menu, and another with the text 'Sort by: Newly listed'. The background of the page is white, and the text is predominantly black with some blue highlighting.",
+                    "summary": "This section contains a list of farm and garden-related listings, with options to sort and filter the results, as well as a menu button for further navigation.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a form titled 'Classifieds > Farm + garden'. The form contains fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', with 'City' and 'Price' currently filled in. There is a blue 'Apply' button below the form fields. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and below that, a 'Refine category' section with a dropdown menu set to 'All categories' and a 'Farm + garden' option visible.",
+                    "summary": "This section contains a search form for classifieds related to farm and garden products, allowing users to filter results by city, price, and category, with options to apply and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of farm-related activities and services offered in Ohio, each with a price and some with additional details. The activities include turkey hunting, black angus bull sales, craftsmanship, and appaloosa horse rides. Each listing has a title, location, date, and a brief description. Some listings have prices, while others mention the cost per hour or the duration of the service.",
+                    "summary": "This section contains a list of farm-related activities and services offered in Ohio, including turkey hunting, black angus bull sales, craftsmanship, and appaloosa horse rides, with details such as title, location, date, and brief description, as well as prices and duration information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2327
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=17": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=17",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Furniture",
+            "name": "Furniture",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Furniture' at the top. Below the title, there is a number '1 - 12 of 9467 listings' indicating the number of available listings. There are two buttons, one with a three-line menu icon and the other with a label 'Sort by: Newly Listed'. The background of the page is white and the text is predominantly black, with the exception of the blue buttons.",
+                    "summary": "This section contains a list of furniture listings, with navigation controls indicating the number of available listings and options to sort the results.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.'. Below the form, there is a button labeled 'Apply'. There are also options to 'Subscribe to this search' and 'Refine category', with 'All categories' listed underneath.",
+                    "summary": "This section contains a search form with fields for filtering search results, a 'Apply' button, and options to refine categories and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of furniture items for sale, each with a description, price, and seller information. The items include a Century Furniture English Roll Arm Sofa, a Highland House Tufted Back Accent Chair, a NEW Zinus 12 Inch Green Tea Queen Memory Foam Mattress, a Storage Cabinet, and a Design Within Reach Reid Sofa. Each listing has a price, some with discounted prices, and the seller's username and star rating are also displayed.",
+                    "summary": "This section contains a list of furniture items for sale, each with a description, price, and seller information, including username and star rating.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2507
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=18": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=18",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Household",
+            "name": "Household",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Household' at the top. Below the title, there is a number '1 - 12 of 8244 listings' indicating the number of available listings. There is a button labeled 'Listings' presumably to navigate to the listings page. On the right side, there is a button with a house icon and the text 'Sort by: Newly listed' suggesting that the listings are sorted by the most recently added or updated.",
+                    "summary": "This section contains a title 'Household', a count of available listings, a 'Listings' button, and a 'Sort by' button with options to filter the listings.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.'. Below the form, there is a button labeled 'Apply'. There are also options to 'Subscribe to this search' and 'Refine category', with 'All categories' listed underneath.",
+                    "summary": "This section contains a search form with fields for filtering search results, a 'Apply' button, and options to refine categories and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of items for sale, likely from an online marketplace or auction site. Each listing includes a description, price, seller information, and other relevant details. The items are related to home decor, with a focus on vintage and decorative pieces. The listings are displayed in a vertical format with each item separated by lines.",
+                    "summary": "This section contains a list of home decor items, including vintage and decorative pieces, with each listing providing a description, price, and seller information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2367
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=19": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=19",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Jewelry",
+            "name": "Jewelry",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Jewelry' at the top. Below the title, there is a subtitle or category label that is partially cut off and not fully visible. The main content area is labeled 'Listings' and indicates that there are '1 - 12 of 1539 listings'. On the right side of the page, there is a button with three horizontal lines, which typically represents a menu, and next to it is a dropdown menu with the label 'Sort by: Newly Listed'. The overall layout suggests a webpage for viewing and sorting jewelry listings.",
+                    "summary": "This section contains a list of jewelry listings, with options to sort and filter the results, and a menu for further navigation.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a classifieds section specifically for 'Jewelry'. There are fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', with 'Apply' button below them. At the bottom, there is a 'Subscribe to this search' button and a 'Refine category' section with 'All categories' and 'Jewelry'.",
+                    "summary": "This section contains a search interface for finding jewelry listings, with fields for filtering results by city, price, and other criteria, as well as options to refine and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of engagement ring listings on a classifieds website. Each listing includes a photo of the ring, a description, the seller's username, the date of the posting, and the price. The rings vary in style and metal, with some mentioning specific details such as the type of diamonds or gemstones used.",
+                    "summary": "This section contains a list of engagement ring listings, each including a photo, description, seller information, and price, with varying styles and metals.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2387
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=20": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=20",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Motorcycles",
+            "name": "Motorcycles",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Motorcycles' at the top. Below the title, there is a number '1 - 12 of 814 listings' indicating the number of available listings. There are two buttons, one labeled 'Listings' and the other 'Sort by: Newly Listed'. The page appears to be from a real estate website, specifically for motorcycles.",
+                    "summary": "This section contains a list of motorcycle listings, with filtering and sorting options, and displays the current page and total listings.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', followed by an 'Apply' button. Below the form, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button. At the bottom, there is a 'Refine category' section with a dropdown menu for 'All categories' and a 'Motorcycles' option selected.",
+                    "summary": "This section contains a search form with various filters and an 'Apply' button, as well as options to subscribe to search results and refine categories.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows listings for used motorcycles for sale, specifically Honda Forza and Vespa scooters. Each listing includes a photo of the motorcycle, the model year, the specific model, price, mileage, and a brief description. There are also indications of the location of the dealer and contact information.",
+                    "summary": "This section contains listings for used motorcycles, specifically Honda Forza and Vespa scooters, with details such as model year, model, price, mileage, and brief description, as well as dealer location and contact information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2507
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=21": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=21",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Music instruments",
+            "name": "Music instruments",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The layout shows a title 'Music instruments' at the top, followed by a list of items, which seems to be a category or a menu with '1 - 12 of 4744 listings' indicating the number of items available. Below this, there is a section labeled 'Listings' which is presumably where the detailed listings of music instruments would appear.",
+                    "summary": "This section contains a category or menu of music instruments with a title and a list of items, as well as a section labeled 'Listings' where detailed information about the instruments would be displayed.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.'. Below the form, there is a button labeled 'Apply'. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and below that, a link to 'Refine category' with 'All categories' and 'Music instruments' listed as sub-categories.",
+                    "summary": "This section contains a search form with various fields to filter results, a 'Apply' button, and options to refine categories and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of music instruments for sale, specifically guitars and a drum set, each with a price and a brief description. The listings include a JBL Powered PA Speaker, a Complete Guitar Rig, a 2021 Martin GPC 16e Rosewood, a Complete Guitar Rig Full Stack w/ Perks, and a Pearl Export Series 5pc Drum Set. Each listing provides information about the condition of the item, the type of wood used, and additional features or accessories included. The listings are displayed in a vertical format with each item separated by a line.",
+                    "summary": "This section contains a list of music instruments for sale, including guitars and a drum set, each with a price, brief description, and details about condition, wood type, and additional features or accessories.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2627
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=22": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=22",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Photo + video",
+            "name": "Photo + video",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a web page with a title 'Photo + video' at the top. Below the title, there is a list of items, possibly categories or filters, with one visible item labeled 'Listings'. On the right side of the page, there is a button with three horizontal lines indicating a menu, and next to it is a dropdown menu with the text 'Sort by: Newly listed'. The background of the page is white, and the text is predominantly black with some blue accents.",
+                    "summary": "This section contains a list of items, possibly categories or filters, with a 'Listings' item visible, and a menu button with a dropdown menu for sorting options.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a search interface, likely for a photo or video classifieds platform. The top part of the page is not fully visible, but it contains a 'Classifieds > Photo + video' title. Below this, there are fields for 'Your search', 'City', and 'Show only' with a checkbox option for 'listings with pictures'. There are also fields for 'Price' with a 'Min.' and 'Max.' option, followed by an 'Apply' button. The bottom part of the screenshot shows a 'Subscribe to this search' button with a 'Subscribe now!' link, and below that, there is a 'Refine category' section with a dropdown menu for 'All categories' and a 'Photo + video' option.",
+                    "summary": "This section contains a search interface for a photo or video classifieds platform, allowing users to filter results by city, price range, and listing type, with options to refine categories and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of products for sale, likely from an online marketplace or classifieds platform. Each listing includes a photo, a brief description, the price, and additional details such as the seller's username, location, and posting date. The items for sale are a Canon EF 100-400mm f/4.5-5.6L IS II USM lens, a Dolica Proline 62\" tripod, an Amish girl with cows picture, a Kodak Easy Share Printer Dock, and an Eufy Security Wireless Video Doorbell.",
+                    "summary": "This section contains a list of products for sale, each with a photo, brief description, price, and additional details such as the seller's username, location, and posting date.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2487
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=23": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=23",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Rvs + campers",
+            "name": "Rvs + campers",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Rvs + campers' at the top. Below the title, there is a number '1 - 12 of 464 listings' indicating the number of available listings. There are two buttons, one labeled 'Listings' and the other 'Sort by: Newly Listed'. The page appears to be from a website that sells RVs and campers, with a focus on listings in the United States.",
+                    "summary": "This section contains a list of RV and camper listings, with filtering and sorting options, and appears to be a search results page from a website focused on RV and camper sales in the United States.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.'. Below the form, there is a button labeled 'Apply'. There are also options to 'Subscribe to this search' and a 'Refine category' section with 'All categories' and 'Rvs + campers'.",
+                    "summary": "This section contains a search form with fields for filtering results, a 'Refine category' section, and an 'Apply' button.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of vehicle listings, specifically campers and motorhomes, with details such as the year, make, model, price, mileage, and a brief description. Each listing includes a photo of the vehicle, and some have additional labels like 'RVS + campers' or 'Green Tree (Pennsylvania)'. The listings are from various years ranging from 1997 to 2015, with prices starting from $17,500.00 to $300,000.00.",
+                    "summary": "This section contains a list of vehicle listings, specifically campers and motorhomes, with details such as year, make, model, price, mileage, and description, allowing users to browse and compare different options.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2607
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=24": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=24",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Video gaming",
+            "name": "Video gaming",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Video gaming' at the top. Below the title, there is a dropdown menu with '1 - 12 of 1058 listings' indicating the number of available listings. To the right of the dropdown, there is a button labeled 'Sort by: Newly listed'. The rest of the page is not visible in the screenshot.",
+                    "summary": "This section contains a list of video game listings, with filtering and sorting options available, including a dropdown menu showing the number of listings and a \"Sort by\" button.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', followed by a blue 'Apply' button. Below the form, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button. At the bottom, there is a 'Refine category' section with a dropdown menu labeled 'All categories' and a 'Video gaming' option selected.",
+                    "summary": "This section contains a search form with various fields to filter results, an 'Apply' button, and options to refine categories and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of ads for used video gaming consoles, specifically the Xbox Series X/with extras, a PlayStation 5, a Thunderbirds Pinball Machine, and a Super NES. Each ad includes a title, a price, a location (Pennsylvania), and some have additional details such as the condition of the item, the seller's username, and a brief description.",
+                    "summary": "This section contains a list of ads for used video gaming consoles, including Xbox Series X, PlayStation 5, and others, with details such as title, price, location, and additional information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2347
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sRegion=9254928": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sRegion=9254928",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Virginia",
+            "name": "Virginia",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage from a classifieds platform, specifically for the state of Virginia. The page layout includes a header with the classifieds category and a dropdown menu for selecting a specific state. Below the header, there are search filters for 'Your search', 'City', 'Show only', 'Price', and 'Min.'. The main content area lists a 'Century Furniture English Roll Arm Sofa (Was 5000)' priced at $605.00, located in Furniture / Arlington (Virginia) / 2023/11/16. There is a button to save up to 90% on the listing. The bottom of the screenshot shows part of an updated daily prices section.",
+                    "summary": "This section contains a classifieds platform for the state of Virginia, featuring search filters and a main content area showcasing a specific furniture listing with details such as price, location, and date, as well as a button to save on the listing.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 252,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 516
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a webpage with a list of categories related to antiques and collectibles. At the top, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button. Below this, there is a 'Refine category' section with a list of categories such as 'All categories', 'Antiques', 'Appliances', 'Arts + crafts', and so on, down to 'Video gaming'. Each category is a clickable link.",
+                    "summary": "This section contains a variety of category links, with options to refine the search and subscribe to specific categories.\n\n**All Categories:**\n\n* 'Antiques'\n* 'Appliances'\n* 'Arts + crafts'\n* 'Auto parts'\n* 'Beauty + health'\n* 'Bikes'\n* 'Books'\n* 'Cars + trucks'\n* 'Cell phones'\n* 'Collectibles'\n* 'Computer parts'\n* 'Computers'\n* 'Electronics'\n* 'Farm + garden'\n* 'Furniture'\n* 'Household'\n* 'Jewelry'\n* 'Motorcycles'\n* 'Music instruments'\n* 'Photo + video'\n* 'Rvs + campers'\n* 'Video gaming'\n",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 252,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1476
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of furniture items and related products for sale on an online marketplace, possibly eBay. Each listing includes a thumbnail image of the item, a brief description, the price, and some have shipping information. The items listed are a Highland House Furniture Tufted Back Accent Chair, a Decorative Hanger With Hooks, a Design Within Reach Reach Reid Sofa, a Bose Noise Cancelling Wireless Bluetooth Headphones, and a Queen Ikea Mattress. The prices range from $20.00 to $100.00, with some items having additional shipping costs.",
+                    "summary": "This section contains a list of furniture items and related products for sale, each with a thumbnail image, brief description, and price, with some including shipping information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 252,
+                        "x2": 875,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 1120,
+                        "y2_abs_px": 2547
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sRegion=9254927": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sRegion=9254927",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Pennsylvania",
+            "name": "Pennsylvania",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage from a classifieds platform, specifically for Pennsylvania. The page layout includes a header with the classifieds category and a search area where users can specify the search criteria such as 'Your search', 'City', 'Show only', 'Price', and 'Min.'. Below the search area, there is a listing for 'JBL Powered PA Speaker w/ Stand' priced at $150.00. The listing includes a photo of the speaker, the location as 'Borough of Red Lion (Pennsylvania)', and a description mentioning the condition of the speaker and its use for vocal performances.",
+                    "summary": "This section contains a classifieds listing for a used JBL Powered PA Speaker with Stand, including a photo, description, and location information, allowing users to search and browse listings in Pennsylvania.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Pennsylvania/[[0,69,1280,516]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 252,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 516
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a webpage with a list of categories related to antiques and collectibles. At the top, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button. Below this, there is a 'Refine category' section with a list of categories such as 'All categories', 'Antiques', 'Appliances', 'Arts + crafts', and so on, down to 'Video gaming'. Each category is a clickable link.",
+                    "summary": "This section contains a list of categories related to antiques and collectibles, with options to refine the search and subscribe to specific categories.\n\n**All Categories:**\n\n* 'Antiques'\n* 'Appliances'\n* 'Arts + crafts'\n* 'Auto parts'\n* 'Beauty + health'\n* 'Bikes'\n* 'Books'\n* 'Cars + trucks'\n* 'Cell phones'\n* 'Collectibles'\n* 'Computer parts'\n* 'Computers'\n* 'Electronics'\n* 'Farm + garden'\n* 'Furniture'\n* 'Household'\n* 'Jewelry'\n* 'Motorcycles'\n* 'Music instruments'\n* 'Photo + video'\n* 'Rvs + campers'\n* 'Video gaming'\n",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Pennsylvania/[[0,516,399,1476]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 252,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1476
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of classified ads for vehicles for sale, specifically focusing on American muscle cars from the 1990s. Each listing includes a photo of the car, a brief description, the price, and additional details such as mileage and location. The cars listed are a Ford Airstream RV, a Ford Mustang, a Chevrolet Guitar Rig Full Stack, a Zebra Pillows truck, and a Complete Guitar Rig Full Stack.",
+                    "summary": "This section contains a list of classified ads for American muscle cars from the 1990s, each including a photo, brief description, price, and additional details such as mileage and location.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Pennsylvania/[[399,516,1120,1476]].png",
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": true,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 252,
+                        "x2": 875,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 1120,
+                        "y2_abs_px": 2507
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sRegion=7361885": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sRegion=7361885",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Maryland",
+            "name": "Maryland",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage from a classifieds platform, specifically for Maryland. The page layout includes a header with the classifieds category and a search area where users can specify the search criteria such as 'Your search', 'City', 'Show only', 'Price', and 'Min.'. Below the search area, there is a listing for a 'Canon EF 100-400mm f/4.5-5.6L IS II USM with extender EF 1.4X III' priced at $1645.00. The listing includes a photo, the location (College Park, Maryland), and a date (2023/11/16). A description mentions that it is a great lens with an extender, and the seller provides UV filter installation upon request.",
+                    "summary": "This section contains a classifieds listing for a camera lens, including search criteria, a specific product description, and seller information.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 252,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 516
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a webpage with a list of categories related to antiques and collectibles. At the top, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button. Below this, there is a 'Refine category' section with a list of categories such as 'All categories', 'Antiques', 'Appliances', 'Arts + crafts', and so on, down to 'Video gaming'. Each category is a clickable link.",
+                    "summary": "This section contains a variety of category links, with options to refine the search and subscribe to specific categories.\n\n**All Categories:**\n\n* 'Antiques'\n* 'Appliances'\n* 'Arts + crafts'\n* 'Auto parts'\n* 'Beauty + health'\n* 'Bikes'\n* 'Books'\n* 'Cars + trucks'\n* 'Cell phones'\n* 'Collectibles'\n* 'Computer parts'\n* 'Computers'\n* 'Electronics'\n* 'Farm + garden'\n* 'Furniture'\n* 'Household'\n* 'Jewelry'\n* 'Motorcycles'\n* 'Music instruments'\n* 'Photo + video'\n* 'Rvs + campers'\n* 'Video gaming'\n",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 252,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1476
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of events with details such as the event name, date, time, venue, price, and a brief description. Each event listing includes an image, either of the event or related to it. The events are related to collectibles, gaming, and art, with prices ranging from 5.00 to 453.00. The events are located in different places in Maryland, including Westminster, Bethesda, and Furniture.",
+                    "summary": "This section contains a list of events related to collectibles, gaming, and art, providing details such as event name, date, time, venue, price, and brief description, with images included for each event.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 252,
+                        "x2": 875,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 1120,
+                        "y2_abs_px": 2607
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sRegion=7138106": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sRegion=7138106",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Washington, D.C.",
+            "name": "Washington, D.C.",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage from a classifieds platform, specifically for Washington, D.C. The page layout includes a header with the location 'Washington, D.C.' and a search area where users can specify 'Your search', 'City', 'Show only', 'Price', and 'Min.' and 'Max.' filters. Below the search area, there is a listing for an 'Engagement Ring' priced at $2200.00. The seller's name is 'Jewelry' and the listing was posted on '2023/11/16'. The listing description mentions that the ring is a 14k gold ring but cannot be identified by the ring itself due to a diamond direct and is a 1.88 carat lab-grown diamond OVAL BRILLIANT Color grade H Clarity.",
+                    "summary": "This section contains a classifieds listing for an engagement ring, allowing users to filter search results by location, price, and other criteria, with the current listing featuring a 14k gold ring with a lab-grown diamond.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 252,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 516
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a webpage with a list of categories related to antiques and collectibles. At the top, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button. Below this, there is a 'Refine category' section with a list of categories such as 'All categories', 'Antiques', 'Appliances', 'Arts + crafts', and so on, down to 'Video gaming'. Each category is a clickable link.",
+                    "summary": "This section contains a variety of category links, with options to refine the search and subscribe to specific categories.\n\n**All Categories:**\n\n* 'Antiques'\n* 'Appliances'\n* 'Arts + crafts'\n* 'Auto parts'\n* 'Beauty + health'\n* 'Bikes'\n* 'Books'\n* 'Cars + trucks'\n* 'Cell phones'\n* 'Collectibles'\n* 'Computer parts'\n* 'Computers'\n* 'Electronics'\n* 'Farm + garden'\n* 'Furniture'\n* 'Household'\n* 'Jewelry'\n* 'Motorcycles'\n* 'Music instruments'\n* 'Photo + video'\n* 'Rvs + campers'\n* 'Video gaming'\n",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 252,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1476
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of furniture items for sale, each with a description, price, and seller information. The items include a Rolf Benz Mid Century Modern Four Drawer Dresser, a Century Furniture Roll Arm Sofa, a Fender Mustang guitar, a 2008 Honda Accord EX, and a Lalique Crystal Decanter. Each listing has a price, some with discounted prices from the original, and the seller's name and contact information. The listings are displayed in a vertical format with each item separated by lines.",
+                    "summary": "This section contains a list of furniture items for sale, each with a description, price, and seller information, displayed in a vertical format.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 252,
+                        "x2": 875,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 1120,
+                        "y2_abs_px": 2667
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sRegion=7826850": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sRegion=7826850",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/West Virginia",
+            "name": "West Virginia",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage from a classifieds platform, specifically for West Virginia. The page layout includes a header with the classifieds category and a drop-down menu for selecting the state. Below the header, there are search filters for 'Your search', 'City', 'Show only', 'Price', and 'Min.'. The main content area displays listings, with the first one being an 'Appaloosa Mule' for sale by 'Berkeley Springs' (West Virginia) priced at $3500.00. The listing includes a photo of the mule, a brief description, and a note about the seller's location and contact information.",
+                    "summary": "This section contains a classifieds platform for West Virginia, allowing users to search and browse listings by category, location, and price, with the main content area displaying individual listings including photos, descriptions, and seller information.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 252,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 516
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a webpage with a list of categories related to antiques and collectibles. At the top, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button. Below this, there is a 'Refine category' section with a list of categories such as 'All categories', 'Antiques', 'Appliances', 'Arts + crafts', and so on, down to 'Video gaming'. Each category is a clickable link.",
+                    "summary": "This section contains a variety of category links, with options to refine the search and subscribe to specific categories.\n\n**All Categories:**\n\n* 'Antiques'\n* 'Appliances'\n* 'Arts + crafts'\n* 'Auto parts'\n* 'Beauty + health'\n* 'Bikes'\n* 'Books'\n* 'Cars + trucks'\n* 'Cell phones'\n* 'Collectibles'\n* 'Computer parts'\n* 'Computers'\n* 'Electronics'\n* 'Farm + garden'\n* 'Furniture'\n* 'Household'\n* 'Jewelry'\n* 'Motorcycles'\n* 'Music instruments'\n* 'Photo + video'\n* 'Rvs + campers'\n* 'Video gaming'\n",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 252,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1476
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of vehicle listings, each with a title, price, mileage, and a brief description. The listings are for various models of Ford F-series trucks, ranging from a 1987 van to a 2019 Ford Ranger. The prices vary, with some listings showing a 'like new' tag and others indicating the price of a 'bunker grill'. Each listing also includes the location of the seller and the date the listing was posted.",
+                    "summary": "This section contains a list of vehicle listings for various Ford F-series trucks, including their title, price, mileage, and brief description, as well as the location of the seller and the date the listing was posted.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 252,
+                        "x2": 875,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 1120,
+                        "y2_abs_px": 2487
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sRegion=7142224": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sRegion=7142224",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Delaware",
+            "name": "Delaware",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage from a classifieds platform, specifically for Delaware. The page layout includes a search area on the left with fields for 'Your search', 'City', 'Show only', 'Price', and 'Min. / Max.'. On the right, there is a heading 'Delaware' followed by a statistic '1 - 12 of 870 listings'. Below this, there is a section titled 'Listings' with a single listing visible. The listing includes a photo of a car, a description that mentions a '2006 ford escape limited', the price as '2650.00 $', and details about the car's condition and features such as 'Cars + trucks', 'Bear (Delaware)', and '2023/11/16'. There are options to 'Sort by: Newly Listed' at the top right of the listings section.",
+                    "summary": "This section contains a search area and a listing section, where users can search for and view classified ads for cars in Delaware, with options to sort and filter results.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 252,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 516
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a webpage with a list of categories related to antiques and collectibles. At the top, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button. Below this, there is a 'Refine category' section with a list of categories such as 'All categories', 'Antiques', 'Appliances', 'Arts + crafts', and so on, down to 'Video gaming'. Each category is a clickable link.",
+                    "summary": "This section contains a variety of category links, with options to refine the search and subscribe to specific categories.\n\n**All Categories:**\n\n* 'Antiques'\n* 'Appliances'\n* 'Arts + crafts'\n* 'Auto parts'\n* 'Beauty + health'\n* 'Bikes'\n* 'Books'\n* 'Cars + trucks'\n* 'Cell phones'\n* 'Collectibles'\n* 'Computer parts'\n* 'Computers'\n* 'Electronics'\n* 'Farm + garden'\n* 'Furniture'\n* 'Household'\n* 'Jewelry'\n* 'Motorcycles'\n* 'Music instruments'\n* 'Photo + video'\n* 'Rvs + campers'\n* 'Video gaming'\n",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 252,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1476
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of tractors for sale, each with a description, price, and seller information. The listings include a Gr2120 Kubota diesel tractor, a 1025r John Deere tractor, another John Deere tractor with a lower price, a Nissan Frontier truck, and a 4/4 Violin or Fiddle. Each listing provides details such as the model year, horsepower, number of hours, and specific features or issues with the vehicle. The prices are in Canadian dollars.",
+                    "summary": "This section contains a list of tractors and vehicles for sale, each with detailed descriptions, prices in Canadian dollars, and seller information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 252,
+                        "x2": 875,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 1120,
+                        "y2_abs_px": 2527
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=9": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=9",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Books",
+            "name": "Books",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The layout shows a title 'Books' at the top, followed by a subtitle '1 - 12 of 1489 listings'. Below the subtitle, there is a section labeled 'Listings'. On the right side of the screen, there is a button with three horizontal lines indicating a menu, and next to it is a button with the text 'Sort by: Newly listed'.",
+                    "summary": "This section contains a list of book listings, with filtering and sorting options available on the right side of the screen.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', followed by an 'Apply' button. Below the form, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with 'All categories' listed underneath.",
+                    "summary": "This section contains a search form with various fields to filter results, an 'Apply' button, and options to refine categories and subscribe to specific searches.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The layout consists of listings for books available for purchase, each with a title, author, date, price, and a brief description. The books are in various genres including young adult, mystery, and non-fiction. Each listing also includes the location of the books, which is West Milton, Pennsylvania, and the seller's username.",
+                    "summary": "This section contains a list of book listings, each with title, author, date, price, and brief description, categorized by genre and including location and seller information.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2567
+                    }
+                }
+            ]
+        },
+        "http://35.203.86.70:9980/index.php?page=search&sCategory=13": {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=13",
+            "website_url": null,
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Computer parts",
+            "name": "Computer parts",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The layout shows a title 'Computer parts' at the top, followed by a subtitle '1 - 12 of 1011 listings'. Below the subtitle, there is a 'Listings' label. On the right side, there is a button labeled 'Sort by: Newly listed'.",
+                    "summary": "This section contains a list of computer parts with filtering and sorting options, including a 'Sort by: Newly listed' button.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The layout consists of a search form with fields for 'Your search', 'City', and 'Price'. Below the form, there is a button labeled 'Apply'. There are also options to 'Subscribe to this search' and a 'Refine category' section with a dropdown menu for 'All categories' and a 'Computer parts' option selected.",
+                    "summary": "This section contains a search form with fields for searching products, refining categories, and subscribing to search results, as well as an 'Apply' button.",
+                    "screenshot_file": null,
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of ads for computer parts on a classifieds website. Each ad includes a title, a brief description, a price, and the location of the seller. The items listed are a MacBook Pro, a MacBook Pro 13 inch, a WD Portable Drive, a Nvidia GeForce RTX 4080, a CPU-MB-RAM-GPU, and a TP-Link TL-WD R3600 Wireless Router. The prices and some descriptions are in USD, while others are in a currency that appears to be Chinese Yuan. The listings are displayed in a vertical format with a white background.",
+                    "summary": "This section contains a list of ads for computer parts, including titles, descriptions, prices, and seller locations, with options to purchase in both USD and Chinese Yuan.",
+                    "screenshot_file": null,
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2367
+                    }
+                }
+            ]
+        }
+    },
+    "list_pages": [
+        {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sCategory=3",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances",
+            "name": "Appliances",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [
+                "sort_3"
+            ],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage with a title 'Appliances' at the top. Below the title, there is a search bar with a magnifying glass icon to the left and a dropdown menu to the right. The main content area of the page lists '1 - 12 of 5797 listings'. At the bottom, there is a section labeled 'Listings' with a downward pointing arrow, suggesting more content is available if clicked. On the right side of the page, there is a button with three horizontal lines indicating a menu, and below it is a button labeled 'Sort by: Newly Listed'.",
+                    "summary": "This section contains a search bar, a list of appliance-related products, and navigation controls to access more listings and sort products by various criteria.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[399,69,1280,299]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 146,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 299
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a web page with a form titled 'Classifieds > Appliances'. The form contains fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', with 'City' and 'Price' currently filled in. There is a blue 'Apply' button below the form fields. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with 'All categories' listed underneath.",
+                    "summary": "This section contains a search form for classifieds, allowing users to filter appliances by city, price, and other criteria, with options to refine the search and subscribe to it.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[0,69,399,1029]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1029
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of classified ads for various appliances, specifically a Mimi fridge, a cuisinart coffee grinder, a cuisinart ice cream maker, a cuisinart griddler, and a GE microwave. Each ad includes a title, a price, a location, a date, and a brief description. The items are listed in a vertical format with images and brief details provided for each one.",
+                    "summary": "This section contains a list of classified ads for various appliances, featuring titles, prices, locations, dates, and brief descriptions, with each ad including an image and details.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[399,299,1123,1259]].png",
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": true,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 146,
+                        "x2": 878,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 299,
+                        "x2_abs_px": 1123,
+                        "y2_abs_px": 2287
+                    }
+                }
+            ]
+        },
+        {
+            "url": "http://35.203.86.70:9980/index.php?page=search&sRegion=9254927",
+            "website_url": "http://35.203.86.70:9980/",
+            "screenshot_dir": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Pennsylvania",
+            "name": "Pennsylvania",
+            "footer_h_px": 140,
+            "has_comments": false,
+            "functions": [],
+            "normal_sections": [
+                {
+                    "desc": "The screenshot shows a webpage from a classifieds platform, specifically for Pennsylvania. The page layout includes a header with the classifieds category and a search area where users can specify the search criteria such as 'Your search', 'City', 'Show only', 'Price', and 'Min.'. Below the search area, there is a listing for 'JBL Powered PA Speaker w/ Stand' priced at $150.00. The listing includes a photo of the speaker, the location as 'Borough of Red Lion (Pennsylvania)', and a description mentioning the condition of the speaker and its use for vocal performances.",
+                    "summary": "This section contains a classifieds listing for a used JBL Powered PA Speaker with Stand, including a photo, description, and location information, allowing users to search and browse listings in Pennsylvania.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Pennsylvania/[[0,69,1280,516]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 34,
+                        "x2": 1000,
+                        "y2": 252,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 69,
+                        "x2_abs_px": 1280,
+                        "y2_abs_px": 516
+                    }
+                },
+                {
+                    "desc": "The screenshot shows a webpage with a list of categories related to antiques and collectibles. At the top, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button. Below this, there is a 'Refine category' section with a list of categories such as 'All categories', 'Antiques', 'Appliances', 'Arts + crafts', and so on, down to 'Video gaming'. Each category is a clickable link.",
+                    "summary": "This section contains a variety of category links, with options to refine the search and subscribe to specific categories.\n\n**All Categories:**\n\n* 'Antiques'\n* 'Appliances'\n* 'Arts + crafts'\n* 'Auto parts'\n* 'Beauty + health'\n* 'Bikes'\n* 'Books'\n* 'Cars + trucks'\n* 'Cell phones'\n* 'Collectibles'\n* 'Computer parts'\n* 'Computers'\n* 'Electronics'\n* 'Farm + garden'\n* 'Furniture'\n* 'Household'\n* 'Jewelry'\n* 'Motorcycles'\n* 'Music instruments'\n* 'Photo + video'\n* 'Rvs + campers'\n* 'Video gaming'\n",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Pennsylvania/[[0,516,399,1476]].png",
+                    "list_type": null,
+                    "explored_end": false,
+                    "has_images": false,
+                    "bbox": {
+                        "x1": 0,
+                        "y1": 252,
+                        "x2": 312,
+                        "y2": 1000,
+                        "x1_abs_px": 0,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 399,
+                        "y2_abs_px": 1476
+                    }
+                }
+            ],
+            "list_sections": [
+                {
+                    "desc": "The screenshot shows a list of classified ads for vehicles for sale, specifically focusing on American muscle cars from the 1990s. Each listing includes a photo of the car, a brief description, the price, and additional details such as mileage and location. The cars listed are a Ford Airstream RV, a Ford Mustang, a Chevrolet Guitar Rig Full Stack, a Zebra Pillows truck, and a Complete Guitar Rig Full Stack.",
+                    "summary": "This section contains a list of classified ads for American muscle cars from the 1990s, each including a photo, brief description, price, and additional details such as mileage and location.",
+                    "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Pennsylvania/[[399,516,1120,1476]].png",
+                    "list_type": "list",
+                    "explored_end": true,
+                    "has_images": true,
+                    "bbox": {
+                        "x1": 312,
+                        "y1": 252,
+                        "x2": 875,
+                        "y2": 1000,
+                        "x1_abs_px": 399,
+                        "y1_abs_px": 516,
+                        "x2_abs_px": 1120,
+                        "y2_abs_px": 2507
+                    }
+                }
+            ]
+        }
+    ]
+}
