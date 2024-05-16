@@ -1,6 +1,0 @@
-task:
-    group_name: "gitlab_easy_text"
-    base_url: "GITLAB/explore"
-    intent: "Click the fourth repo on this page."
-    eval_type: "url_match"
-    value: "GITLAB/byteblaze/project_995"

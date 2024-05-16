@@ -1,0 +1,7 @@
+tasks:
+    group_name: "shopping_hard_vision"
+    start_url: "SHOPPING/tools-home-improvement"
+    intent: "Click on the 'Sign In' button, log in with a pretend profile, go to 'My Account' and update your profile information by changing your address, then save the changes."
+    eval_type: "string_match"
+    value: "Sign In |AND| My Account |AND| address |AND| save"
+  

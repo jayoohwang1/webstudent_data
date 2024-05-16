@@ -1,0 +1,6 @@
+tasks:
+    group_name: "shopping_hard_vision"
+    start_url: "SHOPPING/tools-home-improvement" 
+    intent: "Register a new account, log in, and add the 'KRASITY Modern Mini White Ceramic Table Lamp' to your wish list."
+    eval_type: "string_match"
+    value: "KRASITY Modern Mini White Ceramic Table Lamp"

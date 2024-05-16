@@ -1,0 +1,6 @@
+tasks:
+    group_name: "shopping_hard_vision"
+    start_url: "SHOPPING/tools-home-improvement"
+    intent: "Simulate a purchase by adding the 'Marshall Modern Industrial Farmhouse Table Lamp' to the cart, proceed to checkout, fill in the shipping details, apply a pretend discount code 'SCHOOL10', and note the new total price."
+    eval_type: "string_match"
+    value: "SCHOOL10 |AND| Total Price"

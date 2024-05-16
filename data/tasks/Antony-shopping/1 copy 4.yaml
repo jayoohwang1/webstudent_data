@@ -1,0 +1,6 @@
+tasks:  
+  - group_name: "shopping_hard_vision"
+    start_url: "SHOPPING/tools-home-improvement"
+    intent: "Use the filter options to select the category 'Lighting & Ceiling Fans' with a price range of $0.00 - $999.99, sort the results by 'Position', and add the first three items to your cart. Calculate the total cost."
+    eval_type: "string_match"
+    value: "Lighting & Ceiling Fans |AND| 0.00 - 999.99 |AND| Total Cost"

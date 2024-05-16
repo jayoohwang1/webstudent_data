@@ -1,0 +1,6 @@
+tasks:  
+  - group_name: "shopping_hard_vision"
+    start_url: "SHOPPING/tools-home-improvement"
+    intent: "Find the 'Advanced Search' link, perform an advanced search for 'Table Lamp' with a price range of $20.00 - $50.00, and list the names of all items in the search results."
+    eval_type: "string_match"
+    value: "Advanced Search |AND| Table Lamp |AND| 20.00 - 50.00"

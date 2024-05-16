@@ -1,0 +1,6 @@
+tasks:
+    group_name: "shopping_hard_vision"
+    start_url: "SHOPPING/tools-home-improvement"
+    intent: "Using the search bar, search for 'Ceiling Fan', filter the results by price range $1,000.00 - $1,999.99, find the most expensive item and note its name and price, then navigate back to the Tools & Home Improvement category."
+    eval_type: "string_match"
+    value: "Ceiling Fan |AND| 1000.00 - 1999.99"

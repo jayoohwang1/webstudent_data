@@ -5,3 +5,5 @@ task:
 "What is the price of the most expensive red car on this page?"
     eval_type: "string_match"
     value: "54000 |OR| 54,000 |OR| fifty-four thousand"
+
+    http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:7770/dcoc-1-light-wall-sconce-plug-in-modern-remote-control-wall-sconce-10w-800lm-wall-light-with-plug-in-cord-indoor-hardwire-dimmable-white-wall-sconce-lighting-for-bedside-bedroom-aisle-loft.html
