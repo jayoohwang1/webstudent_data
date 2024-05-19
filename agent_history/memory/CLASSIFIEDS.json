@@ -413,7 +413,7 @@
             ],
             "list_sections": [
                 {
-                    "desc": "The screenshot shows a list of classified ads for various appliances, specifically a Mimi fridge, a cuisinart coffee grinder, a cuisinart ice cream maker, a cuisinart griddler, and a GE microwave. Each ad includes a title, a price, a location, a date, and a brief description. The items are listed in a vertical format with images and brief details provided for each one.",
+                    "desc": "The screenshot shows a list of classified ads for various appliances, specifically a Mimi fridge, a cuisinart coffee grinder, a cuisinart coffee maker, a cuisinart ice cream maker, a cuisinart griddler, and a GE microwave. Each ad includes a title, a price, a location, a date, and a brief description. The items are listed in a vertical format with images and brief details provided for each one.",
                     "summary": "This section contains a list of classified ads for various appliances, featuring titles, prices, locations, dates, and brief descriptions, with each ad including an image and details.",
                     "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[399,299,1123,1259]].png",
                     "list_type": "list",
@@ -2195,8 +2195,8 @@
             ],
             "list_sections": [
                 {
-                    "desc": "The layout consists of listings for books available for purchase, each with a title, author, date, price, and a brief description. The books are in various genres including young adult, mystery, and non-fiction. Each listing also includes the location of the books, which is West Milton, Pennsylvania, and the seller's username.",
-                    "summary": "This section contains a list of book listings, each with title, author, date, price, and brief description, categorized by genre and including location and seller information.",
+                    "desc": "The layout consists of listings for books available for purchase, each with a title, date, price, and a brief description. The books are in various genres including young adult, mystery, and non-fiction. Each listing also includes the location of the books.",
+                    "summary": "This section contains a list of book listings, each with title, date, price, and brief description, categorized by genre and including location information.",
                     "screenshot_file": null,
                     "list_type": "list",
                     "explored_end": true,
@@ -2297,8 +2297,8 @@
             ],
             "normal_sections": [
                 {
-                    "desc": "The screenshot shows a webpage with a title 'Appliances' at the top. Below the title, there is a search bar with a magnifying glass icon to the left and a dropdown menu to the right. The main content area of the page lists '1 - 12 of 5797 listings'. At the bottom, there is a section labeled 'Listings' with a downward pointing arrow, suggesting more content is available if clicked. On the right side of the page, there is a button with three horizontal lines indicating a menu, and below it is a button labeled 'Sort by: Newly Listed'.",
-                    "summary": "This section contains a search bar, a list of appliance-related products, and navigation controls to access more listings and sort products by various criteria.",
+                    "desc": "The screenshot shows a webpage with a title 'Appliances' at the top. Below the title, there is a dropdown menu to the right. The main content area of the page lists '1 - 12 of 5797 listings'. On the right side of the page, there is a button with three horizontal lines indicating a menu, and below it is a button labeled 'Sort by: Newly Listed'.",
+                    "summary": "This section contains a list of appliance-related products, and navigation controls to access more listings and sort products by various criteria.",
                     "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[399,69,1280,299]].png",
                     "list_type": null,
                     "explored_end": false,
@@ -2315,7 +2315,7 @@
                     }
                 },
                 {
-                    "desc": "The screenshot shows a web page with a form titled 'Classifieds > Appliances'. The form contains fields for 'Your search', 'City', 'Show only', 'Price', and 'Max.', with 'City' and 'Price' currently filled in. There is a blue 'Apply' button below the form fields. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with 'All categories' listed underneath.",
+                    "desc": "The screenshot shows a web page with a form titled 'Classifieds > Appliances'. The form contains fields for 'Your search', 'City', 'Show only', 'Price Min.', and 'Max.'. There is a blue 'Apply' button below the form fields. At the bottom, there is an option to 'Subscribe to this search' with a 'Subscribe now!' button, and a link to 'Refine category' with 'All categories' and 'Appliances' listed underneath.",
                     "summary": "This section contains a search form for classifieds, allowing users to filter appliances by city, price, and other criteria, with options to refine the search and subscribe to it.",
                     "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[0,69,399,1029]].png",
                     "list_type": null,
@@ -2335,7 +2335,7 @@
             ],
             "list_sections": [
                 {
-                    "desc": "The screenshot shows a list of classified ads for various appliances, specifically a Mimi fridge, a cuisinart coffee grinder, a cuisinart ice cream maker, a cuisinart griddler, and a GE microwave. Each ad includes a title, a price, a location, a date, and a brief description. The items are listed in a vertical format with images and brief details provided for each one.",
+                    "desc": "The screenshot shows a list of classified ads for various appliances, specifically a Mimi fridge, a cuisinart coffee grinder, a cuisinart coffee maker, a cuisinart ice cream maker, a cuisinart griddler, and a GE microwave. Each ad includes a title, a price, a location, a date, and a brief description. The items are listed in a vertical format with images and brief details provided for each one.",
                     "summary": "This section contains a list of classified ads for various appliances, featuring titles, prices, locations, dates, and brief descriptions, with each ad including an image and details.",
                     "screenshot_file": "/home/jayoo/code/pytorch_docker/Web_Nav/webstudent/webstudent/memory/saved_files/screenshots/CLASSIFIEDS/Appliances/[[399,299,1123,1259]].png",
                     "list_type": "list",
